@@ -1,3 +1,4 @@
+## Concatenação com ","
 nome = input("Digite seu nome: ")
 escola = input("Digite o nome da sua escola: ")
 serie = int(input("Digite sua série: "))
