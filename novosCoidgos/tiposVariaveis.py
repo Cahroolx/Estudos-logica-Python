@@ -1,4 +1,4 @@
-## Neste algoritmo, mostra os tipos de váriaveis dentro do Python
+## Neste algoritmo, mostra os tipos de variáveis dentro do Python
 nome = "Carol"
 altura = 1.65
 idade = 18
