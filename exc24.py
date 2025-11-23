@@ -1,0 +1,2 @@
+cid = str(input('Em que cidade você nasceu? ')).strip() #strip remove espaços desnecesários no começo e final da string
+print(cid[:5].upper() == 'SANTO') #o [:5] pega os cinco primeiros caracteres da string, o upper() converte esses caracteres para maiúsculas e o == compara se esses caracteres são iguais a 'SANTO'
